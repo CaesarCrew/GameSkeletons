@@ -74,7 +74,7 @@
   "name":"Room1",
   "parent":{
     "name":"Cenas",
-    "path":"folders/Cenas.yy",
+    "path":"folders/EndlessRunner/Cenas.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

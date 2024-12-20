@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "path":"folders/EndlessRunner/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[
+    {"name":"BeatMUp","order":3,"path":"folders/BeatMUp.yy",},
+    {"name":"EndlessRunner","order":1,"path":"folders/EndlessRunner.yy",},
+    {"name":"Objetos","order":1,"path":"folders/EndlessRunner/Objetos.yy",},
+    {"name":"Sprites","order":2,"path":"folders/EndlessRunner/Sprites.yy",},
+    {"name":"JogosDeBejar","order":7,"path":"folders/JogosDeBejar.yy",},
+    {"name":"Platformer","order":4,"path":"folders/Platformer.yy",},
+    {"name":"RogueLike","order":2,"path":"folders/RogueLike.yy",},
+    {"name":"RPGs","order":6,"path":"folders/RPGs.yy",},
+    {"name":"ActionRPG","order":1,"path":"folders/RPGs/ActionRPG.yy",},
+    {"name":"TurnRPG","order":2,"path":"folders/RPGs/TurnRPG.yy",},
+    {"name":"RunNGun","order":5,"path":"folders/RunNGun.yy",},
+  ],
+  "ResourceOrderSettings":[],
+}
